@@ -1,0 +1,16 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="defaultSettings" value="true" />
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1449106058572" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="D:/baiduyun/work/IDE/Eclipse/CFJ.xml" />
+          <option name="selectedJavaProfile" value="CFJ" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

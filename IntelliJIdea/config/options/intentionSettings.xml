@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Control Flow/Extract While Loop Condition to Internal If Statement" />
+    <ignoreAction name="Java/Control Flow/Replace While Loop with Do While Loop" />
+    <ignoreAction name="Java/Control Flow/Replace Do While Loop with While Loop" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.versionsBackup;*~;.DS_Store;.classpath;.git;.hg;.project;.settings;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="vue" type="HTML" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

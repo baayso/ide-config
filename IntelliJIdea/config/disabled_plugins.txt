@@ -1,0 +1,3 @@
+org.intellij.plugins.markdown
+StrutsAssistant
+com.intellij.struts2

@@ -1,0 +1,60 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:\Workspace\IdeaWorkspace" />
+        <option value="E:\Workspace\IdeaProjects\IdeaParent" />
+        <option value="E:\Workspace\IdeaProjects\ideatest" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:\Workspace\IdeaProjects\IdeaParent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\ProgramFiles\JetBrains\IntelliJIDEA15\bin" />
+              <option name="projectOpenTimestamp" value="1448518315847" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Workspace\IdeaProjects\ideatest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.382" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\ProgramFiles\JetBrains\IntelliJIDEA15\bin" />
+              <option name="projectOpenTimestamp" value="1448518122939" />
+              <option name="buildTimestamp" value="1447084800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\Workspace\IdeaWorkspace">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Programs\JetBrains\IntelliJ_IDEA_15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1468818469243" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\fullshare\health-app\2_PROJECT\25_SCHEDULE\SweetSecheduler">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.2287" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:\Programs\JetBrains\IntelliJ_IDEA_15.0.4\bin" />
+              <option name="projectOpenTimestamp" value="1468284199939" />
+              <option name="buildTimestamp" value="1456156800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/fullshare/health-app/2_PROJECT/25_SCHEDULE" />
+  </component>
+</application>
