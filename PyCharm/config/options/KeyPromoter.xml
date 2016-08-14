@@ -1,0 +1,9 @@
+<application>
+  <component name="KeyPromoterConfiguration">
+    <option name="settings">
+      <KeyPromoterSettings>
+        <option name="proposeToCreateShortcutCount" value="99" />
+      </KeyPromoterSettings>
+    </option>
+  </component>
+</application>

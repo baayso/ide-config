@@ -1,0 +1,3 @@
+net.vektah.codeglance
+TabSwitch
+mobi.hsz.idea.gitignore
