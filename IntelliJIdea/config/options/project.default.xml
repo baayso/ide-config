@@ -26,7 +26,7 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="mavenHome" value="D:/ProgramFiles/sts-bundle/apache-maven-3.3.3" />
+            <option name="mavenHome" value="D:/Programs/apache-maven-3.3.9" />
           </MavenGeneralSettings>
         </option>
       </component>
@@ -45,7 +45,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -135,11 +135,17 @@
           <method />
         </configuration>
       </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\ChenFangjie\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>jdk1.7.0_80_x64</last-edited>
+              <last-edited>jdk1.8.0_121_x64</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

@@ -15,7 +15,7 @@
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1280.1024" x="379" y="323" />
     <location key="FileChooserDialogImpl.0.0.1280.1024" x="420" y="175" />
     <location key="NewModule_or_Project.wizard.0.0.1280.1024" x="277" y="152" />
-    <location key="ProcessPopupWindow.0.0.1280.1024" x="353" y="629" />
+    <location key="ProcessPopupWindow.0.0.1280.1024" x="353" y="369" />
     <location key="#Project_Structure.0.0.1280.1024" x="120" y="59" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.1024" x="94" y="140" />
     <location key="#Browse_Repositories.0.0.1280.1024" x="161" y="139" />
@@ -59,7 +59,7 @@
     <location key="ProcessPopupWindow.0.0.1680.1050" x="1228" y="853" />
     <location key="RollbackChangesDialog.0.0.1680.1050" x="619" y="225" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1680.1050" x="570" y="253" />
-    <location key="WELCOME_SCREEN.0.0.1280.1024" x="598" y="230" />
+    <location key="WELCOME_SCREEN.0.0.1280.1024" x="639" y="230" />
     <location key="#Updates.0.0.1280.1024" x="399" y="360" />
     <location key="#Browse_JetBrains_Plugins_.0.0.1280.1024" x="207" y="133" />
     <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1280.1024" x="98" y="335" />
@@ -102,13 +102,14 @@
     <location key="#Inspections.0.0.1440.900" x="352" y="93" />
     <location key="#Plugins.0.0.1440.900" x="287" y="26" />
     <location key="#Browse_Repositories.0.0.1440.900" x="275" y="23" />
+    <location key="OptionsEditor.0.0.1280.1024" x="23" y="100" />
     <size key="SettingsEditor.0.0.1366.768" width="1217" height="717" />
     <size key="ProcessPopupWindow.0.0.1366.768" width="489" height="119" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="367" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="367" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="367" />
     <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="367" />
-    <size key="ProcessPopupWindow.0.0.1280.1024" width="686" height="119" />
+    <size key="ProcessPopupWindow.0.0.1280.1024" width="686" height="200" />
     <size key="GridCell.Tab.0.left.0.0.1280.1024" width="1236" height="312" />
     <size key="GridCell.Tab.0.center.0.0.1280.1024" width="1236" height="312" />
     <size key="GridCell.Tab.0.right.0.0.1280.1024" width="1236" height="312" />

@@ -4,34 +4,41 @@
       <project id="IdeaWorkspace" values="1.8,1.8,1.8,1.8,1.8" collectionTime="1468823930730" />
     </group>
     <group name="JavaScript versions">
+      <project id="quartz" values="ECMAScript 5.1" collectionTime="1468284214276" />
       <project id="ideatest" values="ECMAScript 5.1" collectionTime="1448518205398" />
       <project id="IdeaWorkspace" values="ECMAScript 5.1" collectionTime="1468823930738" />
+      <project id="idea_workspace" values="ECMAScript 5.1" collectionTime="1487149822737" />
       <project id="IdeaParent" values="ECMAScript 5.1" collectionTime="1448518876367" />
-      <project id="quartz" values="ECMAScript 5.1" collectionTime="1468284214276" />
     </group>
     <group name="module type">
-      <project id="IdeaWorkspace" values="JAVA_MODULE,WEB_MODULE" collectionTime="1468823930361" />
+      <project id="IdeaWorkspace" values="WEB_MODULE,JAVA_MODULE" collectionTime="1468823930361" />
+      <project id="idea_workspace" values="JAVA_MODULE" collectionTime="1487149822631" />
     </group>
     <group name="vcs">
-      <project id="IdeaWorkspace" values="svn,Git" collectionTime="1468823930360" />
+      <project id="IdeaWorkspace" values="Git,svn" collectionTime="1468823930360" />
+      <project id="idea_workspace" values="Git" collectionTime="1487149822631" />
     </group>
     <group name="Spring Boot">
-      <project id="IdeaWorkspace" values="ConfigurationProperties_2,application.yml,RunConfigsPerProject_1" collectionTime="1468823930800" />
+      <project id="IdeaWorkspace" values="application.yml,ConfigurationProperties_2,RunConfigsPerProject_1" collectionTime="1468823930800" />
+      <project id="idea_workspace" values="application.yml,RunConfigsPerProject_3,application.properties,application.properties" collectionTime="1487149822738" />
     </group>
     <group name="run-configuration-type">
       <project id="IdeaWorkspace" values="SpringBootApplicationConfigurationType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1468823930362" />
+      <project id="idea_workspace" values="SpringBootApplicationConfigurationType" collectionTime="1487149822631" />
     </group>
     <group name="run-configuration-type-temp">
-      <project id="IdeaWorkspace" values="JUnit,Application" collectionTime="1468823930362" />
+      <project id="IdeaWorkspace" values="Application,JUnit" collectionTime="1468823930362" />
     </group>
     <group name="file-type">
-      <project id="ideatest" values="UNKNOWN" collectionTime="1448518205225" />
-      <project id="IdeaWorkspace" values="UNKNOWN,Native,PLAIN_TEXT,Images,SourceMap,HTML,Less,Properties,CSS,SQL,JSP,SWF,JAVA,FTL,JSON,ARCHIVE,SCSS,YAML,VTL,JavaScript,Markdown,XML" collectionTime="1468823930476" />
-      <project id="IdeaParent" values="UNKNOWN" collectionTime="1448518876355" />
       <project id="quartz" values="UNKNOWN" collectionTime="1468284214273" />
+      <project id="ideatest" values="UNKNOWN" collectionTime="1448518205225" />
+      <project id="IdeaWorkspace" values="HTML,JAVA,SCSS,PLAIN_TEXT,Markdown,Less,Images,Properties,FTL,Native,SQL,CSS,UNKNOWN,VTL,SourceMap,XML,JSP,SWF,JSON,ARCHIVE,YAML,JavaScript" collectionTime="1468823930476" />
+      <project id="idea_workspace" values="PLAIN_TEXT,Properties,YAML,CSS,FTL,XML,JSON,Markdown,JAVA,SQL,HTML,JavaScript,Images,UNKNOWN" collectionTime="1487149822733" />
+      <project id="IdeaParent" values="UNKNOWN" collectionTime="1448518876355" />
     </group>
-    <group name="frameworks">
-      <project id="IdeaWorkspace" values="web,Spring" collectionTime="1468823930361" />
+    <group name="Libraries by jars">
+      <project id="IdeaWorkspace" values="spring-core_4.2,spring-security_3.2,spring-core_4.2,spring-amqp_1.5,spring-core_4.2,spring-boot_1.3,spring-data-commons_1.11,velocity_1.7,spring-mvc_4.2,spring-mvc_4.2,spring-core_4.2,spring-mvc_4.2,spring-data-commons_1.12,spring-mvc_4.2" collectionTime="1468823930714" />
+      <project id="idea_workspace" values="spring-mvc_4.3,spring-data-commons_1.13,spring-mvc_4.3,spring-boot_1.4,spring-data-jpa_1.10,spring-data-commons_1.12,spring-boot_1.5,spring-core_4.3,spring-core_4.3" collectionTime="1487149822736" />
     </group>
     <group name="jdbc-datasource">
       <project id="IdeaWorkspace" values="MySQL/5.5.5-10.1.10-MariaDB" collectionTime="1468823930730" />
@@ -40,37 +47,42 @@
       <project id="IdeaWorkspace" values="com.mysql.jdbc.Driver" collectionTime="1468823930731" />
     </group>
     <group name="spring">
-      <project id="IdeaWorkspace" values="xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles10,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/security,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,fileset_configFiles10,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,fileset_configFiles10,xmlNS_www.springframework.org/schema/context" collectionTime="1468823930772" />
+      <project id="IdeaWorkspace" values="xmlNS_www.springframework.org/schema/tx,fileset_xmlContext,fileset_xmlContext,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,fileset_configFiles10,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/mvc,fileset_configFiles10,xmlNS_www.springframework.org/schema/aop,xmlNS_www.springframework.org/schema/aop,fileset_xmlContext,xmlNS_www.springframework.org/schema/security,fileset_configFiles10" collectionTime="1468823930772" />
     </group>
     <group name="compiler">
       <project id="IdeaWorkspace" values="auto_make" collectionTime="1468823930646" />
     </group>
     <group name="javaScript Scope Usages">
+      <project id="quartz" values="Project,Project" collectionTime="1468284214276" />
       <project id="ideatest" values="Project,Project" collectionTime="1448518205398" />
       <project id="IdeaWorkspace" values="Project,Project" collectionTime="1468823930738" />
+      <project id="idea_workspace" values="Project,Project" collectionTime="1487149822737" />
       <project id="IdeaParent" values="Project,Project" collectionTime="1448518876367" />
-      <project id="quartz" values="Project,Project" collectionTime="1468284214276" />
     </group>
     <group name="Git">
-      <project id="IdeaWorkspace" values="config.repo.sync.DONT_SYNC,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remote.branches.count.1,config.save.policy.STASH,data.remotes.in.project.1,data.local.branches.count.1,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1468823930716" />
-      <project id="quartz" values="config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1468284214275" />
+      <project id="IdeaWorkspace" values="config.push.update.all.roots.enabled,data.remotes.in.project.1,config.repo.sync.DONT_SYNC,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.local.branches.count.1,config.ssh.enabled,data.remote.branches.count.1" collectionTime="1468823930716" />
+      <project id="idea_workspace" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,data.remote.branches.count.2+,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remotes.in.project.1,data.remote.branches.count.1,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.force.push.enabled,data.remote.branches.count.1,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,data.local.branches.count.1" collectionTime="1487149822737" />
+      <project id="quartz" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1468284214275" />
     </group>
     <group name="libraries">
-      <project id="IdeaWorkspace" values="CDI,BeanValidation,WebSocket,spring,spring-security,spring-boot,spring-mvc" collectionTime="1468823930645" />
+      <project id="IdeaWorkspace" values="spring-security,WebSocket,CDI,BeanValidation,spring,spring-boot,spring-mvc" collectionTime="1468823930645" />
+      <project id="idea_workspace" values="EJB,spring-mvc,spring-data-jpa,WebSocket,TransactionJavaee,BeanValidation,hibernate,spring-boot,spring,CDI" collectionTime="1487149822735" />
     </group>
-    <group name="Libraries by jars">
-      <project id="IdeaWorkspace" values="spring-data-commons_1.11,spring-core_4.2,spring-data-commons_1.12,spring-security_3.2,spring-mvc_4.2,spring-core_4.2,spring-mvc_4.2,spring-boot_1.3,spring-core_4.2,spring-amqp_1.5,spring-core_4.2,spring-mvc_4.2,velocity_1.7,spring-mvc_4.2" collectionTime="1468823930714" />
+    <group name="frameworks">
+      <project id="IdeaWorkspace" values="Spring,web" collectionTime="1468823930361" />
+      <project id="idea_workspace" values="web" collectionTime="1487149822631" />
     </group>
     <group name="language-level">
-      <project id="ideatest" values="JDK_1_3" collectionTime="1448518205232" />
-      <project id="IdeaWorkspace" values="JDK_1_8,JDK_1_3,JDK_1_5,JDK_1_6" collectionTime="1468823930714" />
-      <project id="IdeaParent" values="JDK_1_8" collectionTime="1448518876364" />
       <project id="quartz" values="JDK_1_8" collectionTime="1468284214275" />
+      <project id="ideatest" values="JDK_1_3" collectionTime="1448518205232" />
+      <project id="IdeaWorkspace" values="JDK_1_3,JDK_1_5,JDK_1_6,JDK_1_8" collectionTime="1468823930714" />
+      <project id="idea_workspace" values="JDK_1_8,JDK_1_7" collectionTime="1487149822736" />
+      <project id="IdeaParent" values="JDK_1_8" collectionTime="1448518876364" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="8" />
+      <entry feature="CreateFile.CreateFileAction" count="9" />
       <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
       <entry feature="OpenInBrowser.Chrome" count="160" />
       <entry feature="OpenInBrowser.Internet Explorer" count="6" />
@@ -80,7 +92,7 @@
       <entry feature="execute.Application.Run" count="28" />
       <entry feature="execute.JUnit.Debug" count="84" />
       <entry feature="execute.JUnit.Run" count="14" />
-      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="450" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="459" />
       <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="1" />
       <entry feature="execute.TestNG.Debug" count="8" />
       <entry feature="execute.TestNG.Run" count="8" />
@@ -91,7 +103,7 @@
       <entry feature="ide.settings.Auto_Import" count="5" />
       <entry feature="ide.settings.Code_Completion" count="4" />
       <entry feature="ide.settings.Code_Folding" count="1" />
-      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Code_Style" count="5" />
       <entry feature="ide.settings.Compiler" count="2" />
       <entry feature="ide.settings.Eclipse&#10;Code_Formatter" count="3" />
       <entry feature="ide.settings.Editor_Tabs" count="8" />
@@ -100,7 +112,7 @@
       <entry feature="ide.settings.File_and_Code_Templates" count="17" />
       <entry feature="ide.settings.General" count="1" />
       <entry feature="ide.settings.Git" count="1" />
-      <entry feature="ide.settings.Gradle" count="2" />
+      <entry feature="ide.settings.Gradle" count="3" />
       <entry feature="ide.settings.Groovy" count="7" />
       <entry feature="ide.settings.Images" count="1" />
       <entry feature="ide.settings.Inspections" count="9" />
@@ -108,7 +120,7 @@
       <entry feature="ide.settings.JavaScript" count="2" />
       <entry feature="ide.settings.KeyPromoter" count="4" />
       <entry feature="ide.settings.Keymap" count="6" />
-      <entry feature="ide.settings.Maven" count="2" />
+      <entry feature="ide.settings.Maven" count="3" />
       <entry feature="ide.settings.Plugins" count="13" />
       <entry feature="ide.settings.Project_Structure" count="5" />
       <entry feature="ide.settings.SQL" count="1" />
@@ -118,16 +130,16 @@
       <entry feature="ide.settings.Updates" count="1" />
       <entry feature="ide.settings.Version_Control" count="1" />
       <entry feature="ide.settings.Yaml" count="1" />
-      <entry feature="ideaapp.started" count="230" />
-      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="90" />
+      <entry feature="ideaapp.started" count="235" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="129" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="963" />
       <entry feature="spring.SpringFacetInspection.AddFacetFix" count="3" />
       <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="1" />
       <entry feature="terminal.win" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.Configure" count="16" />
-      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="6" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="17" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="8" />
       <entry feature="welcome.screen.WelcomeScreen.Plugins" count="4" />
-      <entry feature="welcome.screen.WelcomeScreen.Settings" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="6" />
     </counts>
   </component>
 </application>
