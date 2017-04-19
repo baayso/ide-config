@@ -1,0 +1,22 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="738" y="172" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="671" y="299" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="601" y="85" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="244" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="1245" y="822" />
+    <location key="SettingsEditor.0.0.1920.1080" x="453" y="121" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="545" y="257" />
+    <location key="#Enter_your_license_key.0.0.1920.1080" x="869" y="453" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="748" y="216" />
+    <location key="#SQL_Dialects.0.0.1920.1080" x="370" y="214" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="430" y="171" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="411" height="197" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1038" height="743" />
+    <size key="#Browse_Repositories.0.0.1920.1080" width="1156" height="704" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
+  </component>
+</application>
