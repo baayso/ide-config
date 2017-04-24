@@ -1,0 +1,13 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.171" value="16" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="PLUGIN_FILTER" value="key pro&#10;key" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.19562955" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+  </component>
+</application>

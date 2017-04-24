@@ -1,0 +1,33 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Code_Completion" count="3" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.CoffeeScript" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Dart" count="1" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="1" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Gherkin" count="1" />
+      <entry feature="ide.settings.Haml" count="1" />
+      <entry feature="ide.settings.JSON" count="1" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Less" count="1" />
+      <entry feature="ide.settings.SCSS" count="1" />
+      <entry feature="ide.settings.Sass" count="1" />
+      <entry feature="ide.settings.Stylus" count="1" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ide.settings.YAML" count="3" />
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="11" />
+      <entry feature="welcome.screen.WelcomeScreen.Plugins" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="10" />
+    </counts>
+  </component>
+</application>
