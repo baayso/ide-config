@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/mygit/jvm/gojvm" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/mygit/jvm/gojvm" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/mygit/jvm/gojvm" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:/mygit/jvm/gojvm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="GO-182.4129.57" />
+              <option name="productionCode" value="GO" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1536111828838" />
+              <option name="buildTimestamp" value="1535043402888" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

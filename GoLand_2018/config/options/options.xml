@@ -1,0 +1,16 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="file.chooser.recent.files" value="E:/mygit/jvm/gojvm" />
+    <property name="go.init.cfg.2" value="true" />
+    <property name="go.init.cfg.line.markers" value="true" />
+    <property name="go.last.update.timestamp" value="1536111407984" />
+    <property name="go.optimizeImportsByDefault" value="true" />
+    <property name="go.settings.notification.shown" value="true" />
+    <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="settings.code.style.selected.tab.go" value="Other" />
+    <property name="ts.lib.d.ts.version" value="3.0.1" />
+  </component>
+</application>
