@@ -1,15 +1,21 @@
 <application>
   <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="64-128-96-255,,,128-159-191-255,,,2-2-192-255,,,137-2-2-255,,,128-2-86-255,,,164-23-23-255,,,45-146-175-255,,,43-145-175-255,,,129-2-255-255,,,0-115-191-255,,,0-0-128-255,,,0-128-0-255,,,0-0-0-255" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="SettingsSearchHistory" value="File w" />
     <property name="evlsprt3.182" value="17" />
     <property name="file.chooser.recent.files" value="E:/mygit/jvm/gojvm" />
     <property name="go.init.cfg.2" value="true" />
     <property name="go.init.cfg.line.markers" value="true" />
-    <property name="go.last.update.timestamp" value="1536111407984" />
+    <property name="go.last.update.timestamp" value="1536543605121" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
     <property name="go.optimizeImportsByDefault" value="true" />
     <property name="go.settings.notification.shown" value="true" />
     <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="selected.color.option.type" value="GO_METHOD_RECEIVER" />
     <property name="settings.code.style.selected.tab.go" value="Other" />
     <property name="ts.lib.d.ts.version" value="3.0.1" />
   </component>
