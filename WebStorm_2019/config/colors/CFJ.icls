@@ -3,7 +3,7 @@
     <property name="created">2019-07-23T17:23:44</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-07-23T17:25:58</property>
+    <property name="modified">2019-07-24T09:56:12</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <attributes>
@@ -27,6 +27,16 @@
         <option name="FOREGROUND" value="80" />
       </value>
     </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="660e7a" />
@@ -41,6 +51,11 @@
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="JS.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
       </value>
     </option>
     <option name="JS.STRING">
