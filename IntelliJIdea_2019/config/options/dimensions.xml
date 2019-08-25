@@ -1,0 +1,10 @@
+<application>
+  <component name="DimensionService">
+    <location key="SettingsEditor.0.0.1920.1080" x="707" y="83" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="1084" y="288" />
+    <location key="#Custom_Plugin_Repositories.0.0.1920.1080" x="833" y="99" />
+    <location key="#Plugins.0.0.1920.1080" x="746" y="239" />
+    <location key="new project wizard.0.0.1920.1080" x="338" y="45" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1069" height="711" />
+  </component>
+</application>
