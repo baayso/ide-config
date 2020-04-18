@@ -1,0 +1,24 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="2" last="1587218183931" />
+      </entry>
+      <entry key="WelcomeScreen.Settings">
+        <ActionSummary times="4" last="1587218291055" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="1" last="1587218201491" />
+      </entry>
+      <entry key="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
+        <ActionSummary times="3" last="1587218284703" />
+      </entry>
+      <entry key="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$3">
+        <ActionSummary times="1" last="1587218282432" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$5">
+        <ActionSummary times="4" last="1587218290483" />
+      </entry>
+    </data>
+  </component>
+</application>

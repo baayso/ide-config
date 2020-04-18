@@ -4,10 +4,16 @@
       <version-cache version="10.14.2" last-modified="1544449720000" />
     </local-interpreter>
   </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="GeneralSettings.initiallyConfigured" value="true" />
+    <property name="SettingsSearchHistory" value="file" />
     <property name="WebStorm.disableSafeWrite" value="true" />
     <property name="WebStorm.initialConfigurationShown" value="true" />
     <property name="evlsprt3.192" value="18" />
@@ -18,7 +24,7 @@
     <property name="js.overrides.completion" value="true" />
     <property name="js.var.names.completion" value="false" />
     <property name="js.var.names.completion.kind" value="NAMES_ONLY" />
-    <property name="selected.color.option.type" value="CSS.KEYWORD" />
+    <property name="selected.color.option.type" value="READONLY_BACKGROUND" />
     <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
     <property name="settings.code.style.selected.tab.TypeScript" value="Spaces" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />

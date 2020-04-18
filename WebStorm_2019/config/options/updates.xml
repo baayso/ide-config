@@ -1,6 +1,7 @@
 <application>
   <component name="UpdatesConfigurable">
-    <option name="LAST_BUILD_CHECKED" value="WS-192.5728.87" />
-    <option name="LAST_TIME_CHECKED" value="1563874020999" />
+    <option name="CHECK_NEEDED" value="false" />
+    <option name="LAST_BUILD_CHECKED" value="WS-201.6668.106" />
+    <option name="LAST_TIME_CHECKED" value="1587217842811" />
   </component>
 </application>
