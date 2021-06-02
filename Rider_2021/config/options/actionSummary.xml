@@ -1,0 +1,52 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="2" l="1622639626812" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="12" l="1622640200129" />
+    </e>
+    <e n="EditorCut">
+      <i c="2" l="1622639637004" />
+    </e>
+    <e n="EditorLineStartWithSelection">
+      <i c="1" l="1622639636267" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1622639638037" />
+    </e>
+    <e n="TabList">
+      <i c="1" l="1622640030828" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1622638581596" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="30" l="1622641715020" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$CopyAction">
+      <i c="2" l="1622639762791" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemeActions$CopyToProjectAction">
+      <i c="1" l="1622639721449" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="8" l="1622639760955" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$2">
+      <i c="1" l="1622638626980" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1622638623470" />
+    </e>
+    <e n="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
+      <i c="6" l="1622641135840" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="36" l="1622641714077" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1622638630403" />
+    </e>
+  </component>
+</application>

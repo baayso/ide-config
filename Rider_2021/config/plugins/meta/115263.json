@@ -1,0 +1,1 @@
+{"id":115263,"xmlId":"com.intellij.properties","name":"Properties","description":"\n    Enables smart editing of .properties files.\n  ","organization":"JetBrains s.r.o.","tags":["Languages"],"vendor":"JetBrains","version":"211.6693.44","dependencies":["com.intellij.modules.xml"],"optionalDependencies":["com.intellij.copyright"],"since":"211.6693","until":"211.*","size":314090}

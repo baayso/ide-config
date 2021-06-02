@@ -1,0 +1,26 @@
+<application>
+  <component name="WindowManager">
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="647" y="425" key="#Custom_Plugin_Repositories" timestamp="1622638636165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="425" key="#Custom_Plugin_Repositories/-1366.305.1366.728/0.0.1920.1040" timestamp="1622638636165" />
+    <state x="731" y="136" width="1141" height="883" key="SettingsEditor" timestamp="1622641722581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="136" width="1141" height="883" key="SettingsEditor/-1366.305.1366.728/0.0.1920.1040" timestamp="1622641722581" />
+    <state x="960" y="471" width="1000" height="750" key="WELCOME_SCREEN" timestamp="1622641725790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="960" y="471" width="1000" height="750" key="WELCOME_SCREEN/-1366.305.1366.728/0.0.1920.1040" timestamp="1622641725790" />
+  </component>
+</application>
